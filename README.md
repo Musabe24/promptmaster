@@ -19,12 +19,12 @@ Install Python (if not already installed): Download Python
 Clone this repository or download prompt_generator.py:
 ```
 git clone https://github.com/Musabe24/promptmaster.git
-cd chatgpt-prompt-generator
+cd promptmaster
 ```
 
 Run the script:
 ```
-python prompt_generator.py
+python main.py
 ```
 
 
