@@ -15,7 +15,9 @@ A simple Tkinter-based GUI tool to create structured prompts for ChatGPT. 🚀
 
 
 ## 📌 Installation ##
-Install Python (if not already installed): Download Python
+
+Install Python (if not already installed)
+
 Clone this repository or download prompt_generator.py:
 ```
 git clone https://github.com/Musabe24/promptmaster.git
