@@ -34,3 +34,12 @@ Enter a System Prompt (e.g., "You are a helpful assistant.")
 Write your User Prompt (e.g., "Explain quantum mechanics for beginners.")
 
 Click "Generate Prompt" – the tool will combine both prompts optimally.
+
+
+## 🔥 Why Use This Tool? ##
+
+✅ No more copy-paste chaos
+
+✅ Clear separation of system and user prompts
+
+✅ Improves AI responses through optimized structure
